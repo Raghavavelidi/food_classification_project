@@ -162,6 +162,7 @@ Calculate Performance Metrics
    - Flask handles image uploads, processes them, and returns classification results.
    - The prediction results are displayed on the web page in a user-friendly manner.
 - Run the Web Application Locally:
+    ![image](https://i.imgur.com/tjdJjMd.png)
 
    - The Flask app is developed and tested in PyCharm (or any preferred IDE).
    - The web app runs locally, allowing users to upload images and get real-time predictions.
